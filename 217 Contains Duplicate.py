@@ -1,5 +1,4 @@
 # Brute Force Approach to confirm there's a solution
-
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
 
